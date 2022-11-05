@@ -1,0 +1,15 @@
+h3 {
+	text-align: center;
+}
+.header {
+	color: black;
+	white-space: nowrap;
+
+}
+
+body {
+	background-image: url('images/homepage-background1.jfif');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
